@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A postscript. To the paper of humiliation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05966</idno>
+            <idno type="STC">Wing S5435B</idno>
+            <idno type="STC">ESTC R232508</idno>
+            <idno type="EEBO-CITATION">49521008</idno>
+            <idno type="OCLC">ocm 49521008</idno>
+            <idno type="VID">174229</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174229)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2678:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A postscript. To the paper of humiliation.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Imperfect: slight mutiliation.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nationalism --  England --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174229:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb n="1" facs="tcp:174229:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A POSTSCRIPT.</head>
+            <head type="sub">To the Paper of HUMILIATION.</head>
+            <p>THAT Religion and Vertue do greatly conduce to the Weal and Happineſs of Kingdoms, States, and of all Societies of Men, as well as of ſingle Perſons; and Irreligion, Profaneneſs, Vice and Debauchery, to their Diſſolution and Deſtruction, hath been obſerved by Philoſophers and Wiſe Men in all Ages: And that they have both a Natural Ten<g ref="char:EOLhyphen"/>dancy thereunto, and are moreover often directed by a ſpe<g ref="char:EOLhyphen"/>cial Providence of God in concurrence with other cauſes to thoſe Ends, I have both by domeſtict Examples and Reaſons, as far as I thought neceſſary in ſo plain a Caſe, ſhewed in the <hi>Caveat</hi> before mentioned. In which taking notice of the great Degeneracy and Corruption of the Manners of this Na<g ref="char:EOLhyphen"/>tion, I alſo ſhewed that our late Extraordinary, though unde<g ref="char:EOLhyphen"/>ſerved, <hi>Deliverance</hi> did in a more ſpecial manner oblige us to a ſpeedy &amp; effectual <hi>Reformation</hi> thereof: And that we could not expect but that the Neglect thereof under ſuch ſpecial Obli<g ref="char:EOLhyphen"/>gations would be attended with ſome obſervable Diſappoint<g ref="char:EOLhyphen"/>ments or Obſtructions in our Councils and the Courſe of our Affairs, as we have ſeen it hitherto fall out. To this our Solemn <hi>Thankſgiving</hi> added a further ſpecial Obligation; and the not doing it thereupon doth beyond all queſtion aggravate the Fault of our Neglect, whereupon I preſumed to repreſent the Caſe briefly in a particular <hi>Dedication</hi> of thoſe Papers to the King. And when we had another Solemn day appointed for <hi>Faſting and Praying</hi> for God's Bleſſing upon our Forces in the Warr againſt the French King, which certainly adds ano<g ref="char:EOLhyphen"/>ther Obligation, it was but a reaſonable Proſecution of the ſame honeſt Deſign to note briefly the Neceſſity of making a Publick Reformation a Concomitant of ſuch a Publick Humi<g ref="char:EOLhyphen"/>liation. To all this I will now add theſe few Conſiderations:</p>
+            <p>They, <hi>who have any real Love to their Country,</hi> be their Religi<g ref="char:EOLhyphen"/>on what it will, if they will acquit themſelves but like men
+<pb n="2" facs="tcp:174229:2"/>
+               <!-- PDF PAGE 11 -->of ſenſe and reaſon, ought certainly to endeavour the promoti<g ref="char:EOLhyphen"/>on of ſuch a Publick Reformation, by the promoting of ſome good and Effectual Laws for that purpoſe, even upon Civil Conſiderations, as a thing tending by a natural Efficacy to make the People much better either for Peace or Warr, and for the Common Benefit and Advantage of the whole Socie<g ref="char:EOLhyphen"/>ty. And for an Experiment of the truth of this we need not go far from home, or from our own times. It will be ſufficient but to reflect back, and conſider well the different Morals of the two Parties in our late Civil Warrs, and their different Succeſs.</p>
+            <p>And if they have indeed any thing of <hi>true Loyalty</hi> in them (whereof many have made ſo high Profeſſion) this they ought to demonſtrate both by abſtaining themſelves from contem<g ref="char:EOLhyphen"/>ning and affronting the Laws and Goverment of their Coun<g ref="char:EOLhyphen"/>try in things ſo ſacred with all well conſtituted States, as the Religion Publickly profeſſed by them; and by a real and active concern, as they have occaſion, that all others be effect<g ref="char:EOLhyphen"/>ually reſtrained. If they have no juſt concern it is certain their Loyalty is but a Superficial thing, a meer pretence for ſome deſign or advantage to themſelves: Nor ever did or ever will ſuch Men prove ſteddy to any Goverment, but baſe<g ref="char:EOLhyphen"/>ly betray all, and ſacrifice them to their own Intereſt; and therefore are by no means to be truſted by any wiſe Govern<g ref="char:EOLhyphen"/>ours, notwithſtanding any Parts or Abilities, for which they ought the more to be ſuſpected.</p>
+            <p>And for thoſe who are <hi>Men of Religion,</hi> and more particu<g ref="char:EOLhyphen"/>larly thoſe of the Church of England, beſides the Obligations and Conſiderations before mentioned, <hi>the Common Prayers</hi> of the Church which are daily uſed, and in each Houſe of Par<g ref="char:EOLhyphen"/>liament, as they do afford to them who are there preſent a daily Admonition of their Duty, ſo are they in my apprehen<g ref="char:EOLhyphen"/>ſion a ſpecial and great obligation upon them to it. For to pray that God will be pleaſed <hi>to direct and proſper all their Con<g ref="char:EOLhyphen"/>ſultations to the Advancement of his Glory,</hi> &amp;c. and never ſo much as enterinto any Conſultation for the effectual reſtrain<g ref="char:EOLhyphen"/>ing the Abominable Profanation of his moſt holy Name by all ſorts of people throughout the whole Nation, and moſt impu<g ref="char:EOLhyphen"/>dent and preſumptuous violation of his Laws; to pray <hi>that
+<pb n="3" facs="tcp:174229:2"/>
+                  <!-- PDF PAGE 11 -->all things may be ſo ordered &amp; ſetled by their Endeavours that Reli<g ref="char:EOLhyphen"/>gion &amp; Piety may be Eſtabliſhed,</hi> and never uſe any Endeauours for the ſuppreſſing of ſo common and notorious Impieties in the Nation; What is it but to add Impiety to Impiety, to turn Religion into meer Formality, and inſted of procuring a Bleſſing to help to fill up the Meaſure of our Sins and pull down the Judgments we have reaſon to fear, the ſooner upon us; And the like obſervations may be made upon the <hi>occaſi<g ref="char:EOLhyphen"/>onall</hi> Prayers and Confeſſions purpoſely compoſed for the late Solemnities.</p>
+            <p>And for thoſe, who perhaps may think better of ſome <hi>ſe<g ref="char:EOLhyphen"/>parate Churches,</hi> certainly they would take it amiſs if we ſhould queſtion whether they do conſtantly Pray for God's Direction and Bleſſing upon this Parliament, or leſs then is expreſſed in the Common Prayers: And if they come not behind in their Prayers, and yet are as backward in their Conſultations and Endeavours, I ſee not how they are one jot more excuſable, but muſt necceſſarily fall into the ſame Condemnation, if not greater for having deſerted the Church and yet be no better.</p>
+            <p>And theſe few <hi>Queſtions</hi> I would propoſe to them all, who pretend to be Chriſtians: Whether they can hope for any good ſucceſs in this Undertaking without <hi>God's Bleſſing,</hi> unleſs it be ſuch as God ſometimes gives to wicked men, whom he uſeth for the correction of others? Whether there be not ſuch <hi>Curſed Things,</hi> and <hi>National Sins,</hi> which may provoke him to withdraw his <hi>Preſence,</hi> and withhold his <hi>Bleſſings</hi> from Chriſtians, as well as from others, untill they be removed? Whether there be not reaſon to believe that <hi>this Nation is Po<g ref="char:EOLhyphen"/>luted and defiled</hi> and entangled in ſome ſuch National Sins and Curſed Things, which may obſtruct the Divine Bleſſing? whether their unaccountable flow, or Retrograde <hi>Courſe of our Affairs</hi> (no leſs to be admired than the precedent eaſy Revolution,) may not with reaſon be reduced and imputed to ſome ſuch ſecret cauſe? And whether a diligent <hi>ſearch</hi> into that remoter but moſt prevalent Cauſe, and ſpeedy and ef<g ref="char:EOLhyphen"/>fectual <hi>Reformation</hi> of what is amiſs, be not the moſt proper buſineſs to begin with, (if we do indeed depend more upon God's Bleſſing, now under ſuch inviting Circumſtances, than
+<pb n="4" facs="tcp:174229:3"/>
+               <!-- PDF PAGE 12 -->upon our own ſhallow and ineffectual Policies) to compleat a happy Progreſs of our Affairs?</p>
+            <p>This, if it was done to purpoſe, as it eaſily may, and ought to be, would ſoon produce a great Alteration by the Bleſſing of God in the Courſe of our Affairs for the better. Magnanimity, and Courage is the part and duty of a Chriſti<g ref="char:EOLhyphen"/>an, as much as of an upright Judge or a Souldier: and if we will ever ſhew it, now is the time. If we baſely fear the loſs of a few debauched Miniſters, Gentlemen or Souldiers, we ſhall really loſe a far greater Number of much better men, and be enſlaved and betrayed, as we well deſerve, by the Company we chooſe: whereas by a generous doing our Du<g ref="char:EOLhyphen"/>ty we ſhould better ſecure them better'd by reformation to our Party.</p>
+            <p>POſſibly, in the Peruſal of this Paper, ſome who are moſt attentive to the Importance of the Matter, may over-look other things, and think it very good and honeſt; but theſe muſt be Men who have ſome reliſh of ſuch things But others, who are not much affected with that, will be apt the more to regard the Form, and cenſure it for rude and inſolent; and that I am well pleaſed they ſhould do, and as ſeverely as they will: For I know no better way to convince them of a Fault of their own, than to make them judge themſelves in the Per<g ref="char:EOLhyphen"/>ſon of another. For If I be rude by plain-dealing with my Fellow-Creatures for their Good, who are perhaps but a little above me in ſome petty, accidental, tranſitory Advan<g ref="char:EOLhyphen"/>tage, what are they who are not only more rude toward the State, but impious againſt their Creator, or can behold ſuch Rudeneſs and Impiety without any Cenſure, or Endeavour to reſtrain it? Muſt I be cenſured for breaking the Laws of Man, or but of Civility, and out of a good Deſign? And it is equal then that others ſhall be permitted in impudent Contempt of the Religion of the State, and impious violation of the Laws of Almighty God? <hi>Therefore thou art inexcuſable, O Man, whoſoever thou art that judgeſt; for wherein thou judgeſt another, thou condemneſt thy ſelf. And thinkeſt thou, O Man that judgeſt, —and doſt the ſame, that thou ſhalt eſcape the Judgment of God? Or deſpiſeſt thou,</hi> &amp;c.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
